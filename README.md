@@ -92,12 +92,19 @@ result
 Text will be displayed like this:
 
 Name	Saleem Ullah
+
 father name	Ghulam Ullah Usmani
+
 ID-Number	35222-53000394-2
+
 Gender	Male
+
 Date-Of-Birth	15.01.1996
+
 Date-Of-Issue	15.06.2021
+
 Date-Of-Expire	15.06.2031
+
 ## Documentation
 
 [Text detection from images using EasyOCR: Hands-on guide
